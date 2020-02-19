@@ -8,6 +8,9 @@ https://cloud.iexapis.com/stable/stock/XOM/stats?token=pk_76512460ba7a434eb1aff6
 3. create a object to store dialy stock values and other things in history table
 
 
+okok
+
+
 
 
 
